@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: rabbitmq-provider
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    # 确认消息已发到交换机
+    publisher-confirm-type: correlated
+    # 确认消息已发到队列
+    publisher-returns: true

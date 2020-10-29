@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d838335-c5ec-41fe-b027-fa8a1a84f907" name="Default Changelist" comment="rabbit mq learning">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\Maven\idea_mvn_repo" />
+        <option name="mavenHome" value="D:\Program Files\Maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1jGGto06WYDMMHtGx8rA5mGYuyv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.csdn.consumer.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program Files\Idea_Repo\rabbitmq\consumer\src\main\java\com\csdn\consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="hiddenConfigurations">
+      <map>
+        <entry key="SpringBootApplicationConfigurationType">
+          <value>
+            <set>
+              <option value="RabbitmqApplication" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdn.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="producer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdn.producer.ProducerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdn.rabbitmq.RabbitmqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86150\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d838335-c5ec-41fe-b027-fa8a1a84f907" name="Default Changelist" comment="" />
+      <created>1603423233257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603423233257</updated>
+      <workItem from="1603423234770" duration="1383000" />
+      <workItem from="1603433069610" duration="5519000" />
+      <workItem from="1603691547860" duration="5987000" />
+      <workItem from="1603765941163" duration="651000" />
+      <workItem from="1603766851100" duration="728000" />
+      <workItem from="1603767608517" duration="88000" />
+      <workItem from="1603767714894" duration="19000" />
+      <workItem from="1603768276987" duration="214000" />
+      <workItem from="1603780360145" duration="5366000" />
+      <workItem from="1603789451424" duration="5874000" />
+      <workItem from="1603855333394" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="rabbit mq learning">
+      <created>1603852331814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603852331814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rabbit mq learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="rabbit mq learning" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="635" y="320" width="1236" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1603788271151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="320" width="1236" height="341" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603788271151" />
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1603789122878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="355" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603789122878" />
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1603789730340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603789730340" />
+    <state width="452" height="466" key="DebuggerActiveHint" timestamp="1603438234150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="452" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1603438234150" />
+    <state x="866" y="274" key="FileChooserDialogImpl" timestamp="1603852269810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="866" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603852269810" />
+    <state width="1689" height="291" key="GridCell.Tab.0.bottom" timestamp="1603851826901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826901" />
+    <state width="1689" height="291" key="GridCell.Tab.0.center" timestamp="1603851826900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826900" />
+    <state width="1689" height="291" key="GridCell.Tab.0.left" timestamp="1603851826900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826900" />
+    <state width="1689" height="291" key="GridCell.Tab.0.right" timestamp="1603851826900">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826900" />
+    <state width="1689" height="291" key="GridCell.Tab.1.bottom" timestamp="1603851826901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826901" />
+    <state width="1689" height="291" key="GridCell.Tab.1.center" timestamp="1603851826901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826901" />
+    <state width="1689" height="291" key="GridCell.Tab.1.left" timestamp="1603851826901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826901" />
+    <state width="1689" height="291" key="GridCell.Tab.1.right" timestamp="1603851826901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603851826901" />
+    <state width="1689" height="291" key="GridCell.Tab.2.bottom" timestamp="1603851366493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603851366493" />
+    <state width="1689" height="291" key="GridCell.Tab.2.center" timestamp="1603851366493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603851366493" />
+    <state width="1689" height="291" key="GridCell.Tab.2.left" timestamp="1603851366493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603851366493" />
+    <state width="1689" height="291" key="GridCell.Tab.2.right" timestamp="1603851366493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1689" height="291" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603851366493" />
+    <state x="271" y="282" width="1250" height="711" key="SettingsEditor" timestamp="1603852155430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="271" y="282" width="1250" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603852155430" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603852496483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603852496483" />
+    <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603851342684">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="502" y="256" width="915" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1603851342684" />
+    <state x="662" y="205" width="596" height="630" key="find.popup" timestamp="1603789703708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="205" width="596" height="630" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603789703708" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603852478273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603852478272" />
+    <state x="334" y="180" key="new project wizard" timestamp="1603433883513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603433883513" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603767233243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603767233243" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603699653180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603699653180" />
+    <state x="746" y="203" key="svn.repositoryBrowser" timestamp="1603852255788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="203" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1603852255788" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/consumer/src/main/java/com/csdn/consumer/config/MessageListenerConfig.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
